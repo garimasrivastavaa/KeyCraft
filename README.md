@@ -1,6 +1,6 @@
 # KeyCraft
 
-![KeyCraft Interface](https://github.com/user-attachments/assets/74c2f256-af60-4bb7-bc0b-4e8b77d9c982)
+![KeyCraft Interface] ![image](https://github.com/user-attachments/assets/6a1f552b-5d67-43b4-ab72-6736abea7f9d))
 
 **KeyCraft** is a web-based application designed to generate secure and customizable passwords to enhance online security. With an intuitive interface, users can easily set criteria for their passwords, including length, characters, and symbols.
 
