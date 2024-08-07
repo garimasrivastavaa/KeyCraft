@@ -61,8 +61,10 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Thanks to all the contributors who have invested their time in refining the KeyCraft project.
+- Special thanks to [Name or Organization] for providing essential feedback and support.
+- Hat tip to anyone whose code was used or inspired the functionalities implemented in KeyCraft.
+- Gratitude to the open source community for the tools and libraries that made this project possible.
+
 
 Thank you for considering KeyCraft for your password generation needs!
